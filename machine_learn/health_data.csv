@@ -1,0 +1,11 @@
+heart_rate,bp_sys,bp_dia,temperature,weight,symptoms,severity
+98,120,80,36.8,70,"headache and fever",green
+130,150,95,39.2,82,"high fever and chest pain",red
+90,110,75,37.0,65,"mild cough",green
+85,,,36.7,68,"",yellow
+115,140,90,38.5,80,"dizziness and vomiting",amber
+100,130,85,37.5,72,"nausea and fatigue",amber
+145,160,100,40.1,90,"shortness of breath and severe chest pain",red
+80,115,78,36.5,60,"mild headache",green
+,,,"",60,"loss of consciousness",red
+88,120,82,36.9,75,"lightheadedness",amber

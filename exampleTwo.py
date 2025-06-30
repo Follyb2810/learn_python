@@ -1,0 +1,5 @@
+name =input('What is you name ? ')
+print('hi '+name)
+color = input('what your favorite color? ')
+print('my favorite color is '+color)
+print(name +' like '+color +' color')
